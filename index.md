@@ -11,8 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# About me
+i'm 15 years old developer. i make discord tools like token grabbers, token generators, chapta bypasses etc you get the idea. i live in finland. i'm interested to code discord staff.
+## MY Projects
+
 ### Header 3
 
 - Bulleted
